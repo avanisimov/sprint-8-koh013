@@ -9,7 +9,7 @@ android {
 
     defaultConfig {
         applicationId = "ru.yandex.practicum.sprint8koh13"
-        minSdk = 24
+        minSdk = 23
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
