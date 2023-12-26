@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Sprint8koh13</string>
+
+    <string name="switch_1_text">switch_1_text</string>
+    <string name="switch_2_text">switch_2_text</string>
+    <string name="button_1_text">button_1_text</string>
+    <string name="button_2_text">button_2_text</string>
+
+    <string name="text_short">short</string>
+    <string name="text_long">long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long </string>
 </resources>
